@@ -1,0 +1,8 @@
+# Paramètrage Spring : nom et version de l'application
+spring:
+  application:
+    name: Email Generator
+    version: 1.0
+
+server:
+  port: 9443
